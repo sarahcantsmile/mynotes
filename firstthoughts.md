@@ -3,6 +3,5 @@ date: 2021-01-08T17:02
 ---
 
 # firstthoughts
-
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+A place where I write down my first thoughts, which lack any realtion to previous zettles. 
 
